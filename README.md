@@ -1,24 +1,24 @@
-## About me
+## Sobre mim
 
-#### Hello, welcome to my portfolio.
+#### Olá, seja bem-vindo ao meu portfólio.
 
-#### My name is Arthur and my nickname, usually, is Sanada.
+#### Meu nome é Arthur e meu apelido, normalmente, é Sanada.
 
-#### I have a degree in Information Technology, specifically in Systems Analysis and Development.
+#### Sou formado em Tecnologia da Informação, especificamente em Análise e Desenvolvimento de Sistemas.
 
-#### Despite previous work, I'm currently pursuing my initial experience in the technology field.
+#### Tenho experiência profissional comprovada, mas atualmente estou buscando minha experiência inicial na área de tecnologia.
 
-#### My current focus lies in Python development, yet I am open to any experience that can contribute to my future growth.
+#### Meu foco atual está no desenvolvimento em Python, mas estou aberto a qualquer experiência que possa contribuir para meu crescimento futuro.
 
-#### In Python, I have expertise in web development, natural language processing, and data analysis. Projects utilizing the Django framework and Flask micro framework can be found on my profile.
+#### Em Python, tenho experiência em desenvolvimento web, processamento de linguagem natural e análise de dados. Projetos que utilizam o framework Django e o micro framework Flask podem ser encontrados em meu perfil.
 
-#### Additionally, I possess experience in other programming languages such as C, Java, PHP, and JavaScript.
+#### Além disso, possuo experiência em outras linguagens de programação como C, Java, PHP e JavaScript.
 
-#### I have solid expertise in front-end tools such as HTML, CSS, and the Bootstrap framework.
+#### Tenho sólidos conhecimentos em ferramentas front-end como HTML, CSS e framework Bootstrap.
 
-#### I live in Rio de Janeiro, but I'm open to working anywhere in the world, either remotely or in person.
+#### Moro no Rio de Janeiro, mas estou aberto a trabalhar em qualquer lugar do mundo, seja remotamente ou pessoalmente.
 
-## Tools and Technologies
+## Ferramentas e tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
@@ -30,9 +30,9 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
-#### I can't help but point out that I have good knowledge in Databases and Excel, as well as prior knowledge in Systems Modeling, Computer Maintenance, Computer Architecture, Information Security, Computer Networks, and Operating Systems
+#### Não posso deixar de ressaltar que possuo bons conhecimentos em Banco de Dados e na ferramenta Excel, além de conhecimentos prévios em Estruturas de Dados, Arquitetura de Computadores, Redes de Computadores, Sistemas Operacionais, Segurança da Informação, Manutenção de Computadores e Modelagem de Sistemas.
 
-## Contact
+## Contato
 
 <div>
 <a href="https://twitter.com/arthxrmachado" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
