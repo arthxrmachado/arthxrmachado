@@ -14,7 +14,7 @@
 
 #### Além disso, possuo experiência em outras linguagens de programação como C, Java, PHP e JavaScript.
 
-#### Tenho sólidos conhecimentos em ferramentas front-end como HTML, CSS e framework Bootstrap.
+#### Tenho sólidos conhecimentos em ferramentas front-end, como: HTML, CSS e o framework Bootstrap.
 
 #### Moro no Rio de Janeiro, mas estou aberto a trabalhar em qualquer lugar do mundo, seja remotamente ou pessoalmente.
 
