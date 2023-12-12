@@ -2,8 +2,6 @@
 
 #### Olá, seja bem-vindo ao meu portfólio.
 
-#### Meu nome é Arthur e meu apelido, normalmente, é Sanada.
-
 #### Sou formado em Tecnologia da Informação, especificamente em Análise e Desenvolvimento de Sistemas.
 
 #### Tenho experiência profissional comprovada, mas atualmente estou buscando minha experiência inicial na área de tecnologia.
