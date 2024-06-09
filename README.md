@@ -2,7 +2,7 @@
 
 #### Sou formado em Tecnologia da Informação, especificamente em Análise e Desenvolvimento de Sistemas.
 
-#### Experiência em desenvolvimento web e de software, processamento de linguagem natural e análise de dados. Possuo bons conhecimentos em C, Python, Django e Flask, e conhecimento prévio em PHP, C#, C++, Java, TypeScript e JavaScript.
+#### Experiência em desenvolvimento web e de software, processamento de linguagem natural e análise de dados. Possuo bons conhecimentos em C, Python, Django e Flask, e conhecimento prévio em React, Node.js, PHP, C#, C++, Java, TypeScript e JavaScript.
 
 #### Em relação à banco de dados, possuo conhecimento em SQL, MySQL, SQLite e MongoDB. Tenho conhecimento prévio em AWS (Aurora e MySQL) e bancos de dados não relacionais.
 
