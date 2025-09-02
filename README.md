@@ -10,6 +10,9 @@ I seek opportunities to combine technology, data, AI, and information security t
 - Python, C, SQL
 
 **Libraries:**
+- FastAPI, Flask, Django.
+
+**Libraries:**
 - pandas, scikit-learn, numpy, Matplotlib, Seaborn, NLTK, TextBlob
 
 **Tools:**
